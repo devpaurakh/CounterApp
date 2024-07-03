@@ -1,6 +1,6 @@
 # counterapp
 
-A new Flutter project.
+This is a counter app Created in flutter by using bloc state management. The is the 1st app that I created app to learn Bloc pattern
 
 ## Getting Started
 
@@ -8,9 +8,10 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## This is Screenshot of the app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="324" alt="Screenshot 2024-07-04 at 12 25 32 AM" src="https://github.com/devpaurakh/CounterApp/assets/100192320/caa420ff-fbe1-457c-948e-236c3dbb3330">
+<img width="337" alt="Screenshot 2024-07-04 at 12 25 22 AM" src="https://github.com/devpaurakh/CounterApp/assets/100192320/50657614-bf0a-4d38-aacd-00fa04b3861d">
+
+
+
